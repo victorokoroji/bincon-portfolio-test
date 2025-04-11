@@ -65,8 +65,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Bincom
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- Bincom Dev Center
